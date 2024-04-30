@@ -1,6 +1,5 @@
 ###
 ### Author: Tanner Jackson
-### Course: CSc 110
 ### Description: This program recreates the game
 ### reversi. The program takes a user input of
 ### what place they would like to have their piece
